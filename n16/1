@@ -1,0 +1,23 @@
+package n15$n44;
+import java.util.Scanner;
+
+public class MainClass16$1 {
+	public static void main (String [] args) {
+		 
+		System.out.print ("Введите число 1, 2 или 10: "); 
+		Scanner inputFi = new Scanner (System.in); 
+		int i = inputFi.nextInt (); 
+		if ( i==1) { 
+			System.out.println ("Вы ввели число 1");
+		}
+		else if (i==2) {
+			System.out.println ("Вы ввели число 2");
+		}
+		else if (i==10) {
+			System.out.println ("Вы ввели число 10");
+		}
+		else {
+			System.out.println ("Вы ввели число не равное 1, 2 или 3");
+		}
+	}
+}
