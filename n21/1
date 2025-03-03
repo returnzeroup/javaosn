@@ -1,0 +1,13 @@
+package n15$n44;
+
+public class MainClass21$1 {
+	 public static void main (String [] args) {
+		 
+	        for (int ad = 1; ad <= 7; ad++){
+	            System.out.println(ad + ": я выполянюсь перед continue!");
+	            if (ad > 2)
+	                continue;
+	            System.out.println("     "+ ad + ": я выполянюсь всего два раза ;(");
+	        }
+	 }
+}
