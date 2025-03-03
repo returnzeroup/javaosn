@@ -1,0 +1,10 @@
+package n15$n44;
+
+public class MainClass30$1 {
+	public static void main(String[] args) {
+		String sentence1 ="    Java - прикольно.    ";
+		String sentence2 ="    Java - прикольно.    ";
+		System.out.println(sentence1);
+		System.out.println(sentence2.trim());
+	}
+}
