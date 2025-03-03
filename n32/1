@@ -1,0 +1,17 @@
+package n15$n44;
+
+public class MainClass32$1 {
+	  public static void main(String args[]){
+		     String str = "Нравится учить новое";
+		     String result = str.toUpperCase();
+		     System.out.println("Result: " + result);
+		     
+		     str = "1 и 2 и 3";
+		     result = str.toUpperCase();
+		     System.out.println("Result: " + result);
+		     
+		     str = "ВЕРТЕКС";
+		     result = str.toUpperCase();
+		     System.out.println("РЕЗУЛЬТАТ: " + result);
+		   }
+}
