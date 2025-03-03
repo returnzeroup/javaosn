@@ -1,0 +1,9 @@
+package n15$n44;
+
+public class MainClass27$1 {
+	public static void main(String[] args) {
+		String sentence ="Интересно вы реально это будете смотреть?.";
+		sentence = sentence.concat("Если да, то огромное спасибо за уделенное время;)");
+		System.out.println(sentence);
+	}
+}
