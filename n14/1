@@ -1,0 +1,11 @@
+package n14;
+import java.util.Scanner;
+
+public class TetstMainClassJava14$1 {
+	public static void main(String args[]){
+		System.out.print("Введите число от 1 до 10");
+		Scanner zap = new Scanner(System.in);
+		int number = zap.nextInt();
+		System.out.println ("Вы ввели число " + zap);
+	}
+}
