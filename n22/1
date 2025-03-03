@@ -1,0 +1,9 @@
+package n15$n44;
+
+public class MainClass22$1 {
+	public static void main(String[] args) {
+		byte sd = 15;
+		byte bs = sd;
+		System.out.println(bs);
+	}
+}
