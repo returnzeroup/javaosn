@@ -1,0 +1,9 @@
+package n15$n44;
+
+public class MainClass29$1 {
+	public static void main(String[] args) {
+		String sentence ="Прикольно Прикольно Прикольно";
+		System.out.println(sentence.substring(0));
+		System.out.println(sentence.substring(1,11));
+	}
+}
