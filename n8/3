@@ -1,0 +1,29 @@
+package n8$2;
+
+class Test {
+	public static void main (String args[]) {
+		byte celii = 15;
+		short $celii1 = 1015;
+		int $celii2 = 100015;
+		long $celii3 = 100000015;
+		float plav = 15.4f;
+		double $plav = 15.3414;
+		char bukvi = 'N';
+		boolean voprosda$net = true;//инициализация переменной voprosda$net
+		String nazvanie = "Обожаю Java";
+		System.out.println (celii);
+		System.out.println ($celii1);
+		System.out.println ($celii2);
+		System.out.println ($celii3);
+		System.out.println (plav);
+		System.out.println ($plav);
+		System.out.println (bukvi);
+		System.out.println (voprosda$net);
+		System.out.println (nazvanie);
+	}
+	//Доброе утро 
+	/*
+	 Доброе утро
+	 доброе утро
+	 */
+}
