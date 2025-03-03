@@ -1,0 +1,12 @@
+package n15$n44;
+
+public class MainClass38$1 {
+	  public static void main(String args[]) {
+	      char[] chars = {'V', 'e', 'r', 't', 'e', 'x', ' ', 'A', 'c', 'a', 'd', 'e', 'm', 'y'};
+	      String y21 = "String";
+	      System.out.println("String y21 before copyValueOf: 	" + y21);
+	     
+	      y21 = y21.copyValueOf(chars);
+	      System.out.println("String y21 after copyValueOf: 	" + y21);
+	   }
+}
