@@ -1,0 +1,11 @@
+package n15$n44;
+
+public class MainClass36$1 {
+	public static void main(String[] args) {
+        int[] array = {51,136, 387};
+
+        for (int t = 0; t < array.length; t++) {
+        System.out.println(array[t]);
+        }
+	}
+}
