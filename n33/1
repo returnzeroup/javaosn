@@ -1,0 +1,17 @@
+package n15$n44;
+
+public class MainClass33$1 {
+	   public static void main(String args[]){
+		     String str = "Я люблю Яву";
+		     String result = str.toLowerCase();
+		     System.out.println("rez: " + result);
+		     
+		     str = "TEXT 1 2 3";
+		     result = str.toLowerCase();
+		     System.out.println("rez: " + result);
+		     
+		     str = "vertex";
+		     result = str.toLowerCase();
+		     System.out.println("rez: " + result);
+		   }
+}
