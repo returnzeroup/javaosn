@@ -1,0 +1,17 @@
+package n12;
+
+public class TetsMainClass11$1 {
+	public static void main(String [] args) {
+		String mor1 = "доброе";
+		String mor2 = "не доброе";
+		System.out.println("Сегоднядняшнее утро " + mor1);
+		System.out.println("Сегоднядняшнее утро " + mor2);
+		/*
+		 utro
+		 */
+		String name = "Витя";
+		String car = "Lada2112";
+		System.out.println (name + " купил " + car);
+
+	}
+}
