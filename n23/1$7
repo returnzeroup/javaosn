@@ -1,0 +1,24 @@
+package n15$n44;
+
+public class MainClass23$1$7 {
+	public static void main(String[] args){
+		double a = Math.random();
+		double b = Math.random()*3;
+		double q = Math.random()+2;
+		double w = 20 + Math.random()*40;
+		double r = Math.random()*200 - 100;
+		int g = (int) ( Math.random() * 3 );
+		int h = (int) (Math.random()*(200+1)) - 100;
+		int j = (int) (Math.random()*(600+1)) - 200;
+		int k = (int) (Math.random()*(1+1)) + 1;
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(q);
+		System.out.println(w);
+		System.out.println(r);
+		System.out.println(g);
+		System.out.println(h);
+		System.out.println(j);
+		System.out.println(k);		
+	}
+}
