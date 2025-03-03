@@ -1,0 +1,11 @@
+package n15$n44;
+
+public class MainClass15$1 {
+	 public static void main(String[] args) {
+	        final double Pi = 3.14;
+	        double lengthl = 2*Pi*10;
+	        double length2 = 2*Pi*25;
+	        System.out.println ("Периметр круга при радиусе 10 см равен " + lengthl);
+	        System.out.println ("А при радиусе 25 см равен " + length2);
+	    }
+}
