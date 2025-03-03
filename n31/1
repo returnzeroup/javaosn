@@ -1,0 +1,11 @@
+package n15$n44;
+
+public class MainClass31$1 {
+	   public static void main(String args[]) {
+		      String line = "Good morning";
+		      boolean xs1 = line.endsWith("morning");
+		      boolean xs2 = line.endsWith("evening");
+		      System.out.println("String " + line + " ends with 'morning'?  " + xs1);
+		      System.out.println("String " + line + " ends with 'evening'?  " + xs2);
+		   }
+}
