@@ -1,0 +1,17 @@
+package n15$n44;
+
+public class MainClass20$1 {
+	 public static void main(String args[]){
+	        int da;
+	        int ad;
+	 
+	        da = 1;
+	        ad = 3;
+	        while(da <= 5){
+	            System.out.println(da + ": цикл выполняется!");
+	            if (da == ad)
+	                break;
+	            da++;
+	        }
+	    }
+}
