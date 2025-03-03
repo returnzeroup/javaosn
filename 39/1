@@ -1,0 +1,14 @@
+package n15$n44;
+
+public class MainClass39$1 {
+	  public static void main(String args[]) {
+	       String hello = "Hello";
+	 
+	        int hi1 = hello.indexOf('H');
+	        int hi2 = hello.indexOf('o');
+	        int hi3 = hello.indexOf('W');
+	        System.out.println("Мы ищем букву 'H' в строке "+hello+". Индекс данной буквы "+hi1 );
+	        System.out.println("Мы ищем букву 'o' в строке "+hello+". Индекс данной буквы "+hi2 );
+	        System.out.println("Мы ищем букву 'W' в строке "+hello+". Индекс данной буквы "+hi3 );
+	    }
+}
