@@ -1,0 +1,10 @@
+package n8;
+
+public class TestMainClass {
+	public static void main(String args[]){
+		int n8;
+		n8 = 15;
+		System.out.println (n8);
+	}
+}
+
