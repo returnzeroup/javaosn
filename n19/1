@@ -1,0 +1,11 @@
+package n15$n44;
+
+public class MainClass19$1 {
+	public static void main(String[] args){
+		int xs = 7;
+		while (xs <= 98) {
+			System.out.print (xs+" ");
+			xs+=7;
+		}
+	}
+}
