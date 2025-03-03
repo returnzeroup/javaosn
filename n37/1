@@ -1,0 +1,12 @@
+package n15$n44;
+
+public class MainClass37$1 {
+	  public static void main(String args[]){
+		     String str = "ABC";
+		     char[] result = str.toCharArray();
+		     
+		     System.out.println("Char array:");
+		     for (int y = 0; y < result.length; y++)
+		     	System.out.println("Element [" + y + "]: " + result[y]);
+		   }
+}
