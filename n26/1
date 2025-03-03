@@ -1,0 +1,8 @@
+package n15$n44;
+
+public class MainClass26$1 {
+	public static void main(String[] args) {
+		String sentence = "Прикольно";
+		System.out.println(sentence.length());
+	}
+}
