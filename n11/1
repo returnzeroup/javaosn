@@ -1,0 +1,17 @@
+package n11;
+
+public class TestClassJava11$1 {
+	public static void main(String []args) {
+		int k = 115;
+		int p = 112;
+		int f = -15;
+		int pluskp = k+p;
+		System.out.println (pluskp);
+		pluskp = pluskp-15;
+		System.out.println (pluskp);
+		int s = pluskp*f;
+		System.out.println(s);
+		s=s/f;
+		System.out.println(s);		
+	}
+}
