@@ -1,0 +1,8 @@
+package n10;
+
+public class TestMainClassJava10 {
+	public static void main(String[]args) {
+		System.out.println("Я изучаю");
+		System.out.println("Яву/Java");
+	}
+}
