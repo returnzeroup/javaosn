@@ -1,0 +1,13 @@
+package n15$n44;
+
+public class MainClass28$1 {
+	public static void main(String[] args) {
+		String sentence = "Обожаю язык программирования Java";
+		char xh1 = sentence.charAt(0);
+		char xh2 = sentence.charAt(5);
+		char xh3 = sentence.charAt(9);
+		System.out.println("Буква 0 индекса это: " + xh1);
+		System.out.println("Буква 5 индекса это: " + xh2);
+		System.out.println("Буква 9 индекса это: " + xh3);
+	}
+}
