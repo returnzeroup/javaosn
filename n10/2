@@ -1,0 +1,8 @@
+package n10;
+
+public class TestMainClassJava10$1 {
+	public static void main(String[]args) {
+		System.out.print("Hello");
+		System.out.print(" World");
+	}
+}
