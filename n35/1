@@ -1,0 +1,9 @@
+package n15$n44;
+
+public class MainClass35$1 {
+	public static void main(String[] args) {
+		int [] array11 = {5,17,350};
+		int y = array11.length;
+		System.out.println(y);
+	}
+}
