@@ -1,0 +1,11 @@
+ArrayList <String> deliveryCities = new ArrayList<>();
+ 
+deliveryCities.add(“Clao”);
+deliveryCities.add(“NY”);
+deliveryCities.add(“Toronto”);
+deliveryCities.add(“Bashnya”);
+
+deliveryCities.get(2); //Toronto
+System.out.print(deliveryCities.indexOf("NY")); 
+System.out.print(deliveryCities.indexOf("Amsterdam"));
+deliveryCities.remove("Bashnya");
