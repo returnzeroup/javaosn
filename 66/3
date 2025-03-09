@@ -1,0 +1,17 @@
+public class MainClass {
+    public static void main(String[] args) {
+        Seasons arg = Seasons.FALL;
+ 
+        switch (arg)
+        {
+            case WINTER:
+            System.out.println("nabor bukv rzmyat' translit!"); break;
+            case SUMMER:
+                System.out.println("mozhet bit' pisat' na translite voobshe vsegda chto bi"); break;
+            case SPRING:
+                System.out.println("trenit' slepuyu pechat'"); break;
+            case FALL:
+                System.out.println("a to momentami tryhard ne smotre'"); break;
+        }
+    }
+}
