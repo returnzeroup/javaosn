@@ -1,0 +1,54 @@
+class MainClass {
+    Cat[] abc = new netDog [3];
+}
+ 
+class Cat{
+   String name;
+ 
+    public netDog (String name){
+        this.name = name;
+    }
+}
+
+/*
+class MainClass {
+   static Cat[] abc = new netrDog [3];
+ 
+    public static void main (String[] args){
+        for (int i = 0; i<3; i++){
+            System.out.println(abc[i]);
+        }
+    }
+}
+class netDog{
+   String name;
+ 
+    public netDog (String name){
+        this.name = name;
+    }
+}
+*/
+
+/*
+class MainClass {
+   static Cat[] abc = new Cat [3];
+ 
+    public static void main (String[] args){
+        abc[0] = new Cat("Kitty");
+        abc[1] = new Cat("Molly");
+        abc[2] = new Cat("Lily");
+ 
+        for (int i = 0; i<3; i++){
+            System.out.println(abc[i].name);
+        }
+    }
+}
+ 
+class Cat{
+   String name;
+ 
+    public Cat (String name){
+        this.name = name;
+    }
+}
+*/
