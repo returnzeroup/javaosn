@@ -1,0 +1,23 @@
+class MainClass{
+ 
+ public static void firstMethod (){
+   System.out.println("Это статический метод!");
+ }
+ 
+ public void secondMethod (){
+   System.out.println("Это НЕ статический метод!");
+ }
+ 
+}
+/*
+class MainClass {
+ 
+  public static void main (String args[]){
+    MyClass c1 = new MyClass();
+ 
+    c1.firstMethod();
+    c1.secondMethod();
+ } 
+ 
+}
+*/
