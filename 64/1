@@ -1,0 +1,42 @@
+public class Test {
+ 
+    public static void main(String[] args) {
+        int i;
+ 
+        i = 25;
+        System.out.println(i);
+    }
+}
+
+/*
+class NetCat{
+ 
+ private String name;
+ private String poroda;
+ private int age;
+ 
+ public Dog(String x, String y, int z){
+      name = x;
+      poroda = y;
+      age = z;
+ } 
+ 
+}
+*/
+
+/*
+class NetCat{
+ 
+ private String name = "Шарик";
+ private String poroda = "овчарка";
+ private int age = 2;
+ 
+ public Dog(String x, String y, int z){
+      name = x;
+      poroda = y;
+      age = z;
+ } 
+ 
+}
+*/
+
