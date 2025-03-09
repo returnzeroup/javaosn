@@ -1,0 +1,13 @@
+class NetCat{
+ 
+ private String name;
+ private String poroda;
+ private int age;
+ 
+ public Dog(String x, String y, int z){
+      name = x;
+      poroda = y;
+      age = z;
+ } 
+ 
+}
