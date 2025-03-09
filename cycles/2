@@ -1,0 +1,29 @@
+import java.util.Scanner;
+ 
+class MainCLass {
+    public static void main (String [] args) {
+        String a;
+        boolean e;
+        System.out.println ("Chto takoe");
+        Scanner inputAnswer = new Scanner (System.in);
+ 
+        e = false;
+        for(int x = 1; x <= 3; x++){
+            if (e == true)
+                break;
+            a = inputAnswer.next ();
+            switch (a){
+                case ("тролейбус"):
+                    System.out.println ("+");
+                    e = true;
+                    break;
+                case ("hz"):
+                    System.out.println ("+: тролейбус.");
+                    e = true;
+                    break;
+                default:
+                    System.out.println("dumai.");
+            }
+        }
+    }
+}
