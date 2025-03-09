@@ -1,0 +1,17 @@
+public class Test{
+ 
+public static void main (String args[]){
+  Car myCar = new Car();
+  
+  System.out.println(myCar.myStatic);
+  System.out.println(myCar.notStatic); 
+}
+/*
+public class Test{
+ 
+public static void main (String args[]){
+  
+  System.out.println(Car.myStatic);
+  System.out.println(Car.notStatic); 
+}
+*/
